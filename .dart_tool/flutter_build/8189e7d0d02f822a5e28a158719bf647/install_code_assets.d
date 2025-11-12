@@ -1,0 +1,1 @@
+ C:\\Users\\tuchi\\vscode\ for\ flutter\\pr6_pcs\\.dart_tool\\flutter_build\\8189e7d0d02f822a5e28a158719bf647\\native_assets.json: 

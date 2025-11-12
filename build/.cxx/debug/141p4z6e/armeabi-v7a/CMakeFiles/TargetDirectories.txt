@@ -1,0 +1,2 @@
+C:/Users/tuchi/vscode for flutter/pr6_pcs/build/.cxx/debug/141p4z6e/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/tuchi/vscode for flutter/pr6_pcs/build/.cxx/debug/141p4z6e/armeabi-v7a/CMakeFiles/rebuild_cache.dir
