@@ -1,10 +1,10 @@
 {
   "roots": [
-    "madshop_ui_petrova"
+    "madshop_ui_tuchin"
   ],
   "packages": [
     {
-      "name": "madshop_ui_petrova",
+      "name": "madshop_ui_tuchin",
       "version": "1.0.0+1",
       "dependencies": [
         "cupertino_icons",
