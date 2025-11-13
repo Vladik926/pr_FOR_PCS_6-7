@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:madshop_ui_petrova/screens/cart_screen.dart';
+import 'package:madshop_ui_tuchin/screens/cart_screen.dart';
 import 'favourite_screen.dart';
-import 'package:madshop_ui_petrova/models/product.dart';
+import 'package:madshop_ui_tuchin/models/product.dart';
 import '../widgets/card_product.dart';
 import '../widgets/cart_card.dart';
 import '../theme/text_styles.dart';

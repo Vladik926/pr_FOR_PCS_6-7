@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:madshop_ui_petrova/screens/cart_screen.dart';
-import 'package:madshop_ui_petrova/screens/home_screen.dart';
-import 'package:madshop_ui_petrova/models/product.dart';
-import 'package:madshop_ui_petrova/theme/text_styles.dart';
+import 'package:madshop_ui_tuchin/screens/cart_screen.dart';
+import 'package:madshop_ui_tuchin/screens/home_screen.dart';
+import 'package:madshop_ui_tuchin/models/product.dart';
+import 'package:madshop_ui_tuchin/theme/text_styles.dart';
 import '../widgets/card_product.dart';
 
 class FavouriteScreen extends StatefulWidget {

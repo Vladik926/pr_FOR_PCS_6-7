@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:madshop_ui_petrova/screens/create_screen.dart';
-import 'package:madshop_ui_petrova/screens/login_screen.dart';
-import 'package:madshop_ui_petrova/theme/colors.dart';
+import 'package:madshop_ui_tuchin/screens/create_screen.dart';
+import 'package:madshop_ui_tuchin/screens/login_screen.dart';
+import 'package:madshop_ui_tuchin/theme/colors.dart';
 import 'providers/card_provider.dart';
 import 'package:provider/provider.dart';
 

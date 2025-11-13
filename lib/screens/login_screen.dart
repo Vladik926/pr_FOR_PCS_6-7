@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:madshop_ui_petrova/screens/create_screen.dart';
-import 'package:madshop_ui_petrova/screens/password_screen.dart';
-import 'package:madshop_ui_petrova/theme/colors.dart';
-import 'package:madshop_ui_petrova/theme/text_styles.dart';
+import 'package:madshop_ui_tuchin/screens/create_screen.dart';
+import 'package:madshop_ui_tuchin/screens/password_screen.dart';
+import 'package:madshop_ui_tuchin/theme/colors.dart';
+import 'package:madshop_ui_tuchin/theme/text_styles.dart';
 import 'home_screen.dart';
 
 class LoginScreen extends StatelessWidget {

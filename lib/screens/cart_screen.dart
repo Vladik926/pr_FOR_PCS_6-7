@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:madshop_ui_petrova/screens/home_screen.dart';
-import 'package:madshop_ui_petrova/theme/colors.dart';
+import 'package:madshop_ui_tuchin/screens/home_screen.dart';
+import 'package:madshop_ui_tuchin/theme/colors.dart';
 import 'favourite_screen.dart';
-import 'package:madshop_ui_petrova/models/product.dart';
+import 'package:madshop_ui_tuchin/models/product.dart';
 import '../widgets/card_product.dart';
 import '../widgets/cart_card.dart';
-import 'package:madshop_ui_petrova/theme/text_styles.dart';
+import 'package:madshop_ui_tuchin/theme/text_styles.dart';
 
 class CartScreen extends StatefulWidget {
   const CartScreen({super.key});
